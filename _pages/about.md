@@ -452,8 +452,6 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Competition Awards</h2>
 
 <ul>
-  <li><p>IROS 2024 Cooperative Aerial Robots Inspection Challenge Champion  <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li>
   
   <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
   </li>
