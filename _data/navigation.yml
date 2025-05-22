@@ -53,6 +53,6 @@ main:
     url: "/#-projects"
     data-level: "1"  # 父项
     submenus:
-      - title: "Demos & Codes"
+      - title: "Demos & Codes & Model/Algorithm library"
         url: "/#-demos-codes"
         data-level: "2"  # 子项
