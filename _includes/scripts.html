@@ -1,9 +1,84 @@
 <script src="assets/js/main.min.js"></script>
 <script src="assets/js/1.js"></script>
-<!-- <script src="assets/js/2.js"></script> -->
-<!-- <script src="assets/js/homepage.js"></script> -->
-<!-- <script src="{{ 'assets/js/script.js' | relative_url }}"></script> -->
-<!-- <script src="assets/js/menus.js"></script> -->
-<!-- <script src="assets/js/submenus.js"></script> -->
+
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script src="assets/js/google_analytics.js"></script>
+<!-- 引入 Firebase 的核心库 -->
+<script type="module">
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js';
+  import { getAnalytics, logEvent } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js';
+  import { getDatabase, ref, get, set, update, child, runTransaction, onValue } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js';
+
+  // Firebase 配置
+  const firebaseConfig = {
+    apiKey: "AIzaSyCiWAzp_dpwbCtGhhewCW_NjrNj-ttfSio",
+    authDomain: "numeric-polygon-000001.firebaseapp.com",
+    projectId: "numeric-polygon-000001",
+    databaseURL: "https://numeric-polygon-000001-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    storageBucket: "numeric-polygon-000001.firebasestorage.app",
+    messagingSenderId: "162433300540",
+    appId: "1:162433300540:web:aed1da4fb7767a102c2b39",
+    measurementId: "G-TD04FXX86E"
+  };
+
+  // 初始化 Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+  const database = getDatabase(app);
+
+  if (!analytics) {
+    console.error("Firebase Analytics failed to initialize");
+  }
+  document.addEventListener('DOMContentLoaded', function () {
+    // 为每个下载链接添加点击事件
+    const downloadLinks = document.querySelectorAll('.gold-link-track');
+
+    downloadLinks.forEach(link => {
+      const linkId = link.getAttribute('data-link-id');
+      const countDisplay = document.getElementById(`count-${linkId}`); // 显示下载次数的元素
+
+      // 从 Firebase 获取下载次数并更新页面显示
+      const downloadRef = ref(database, 'downloads/' + linkId);
+      get(downloadRef).then(snapshot => {
+        const downloadCount = snapshot.val() || 0;
+        countDisplay.textContent = `Download Count: ${downloadCount}`;
+      });
+
+      // 给下载链接绑定点击事件
+      link.addEventListener('click', function () {
+        // 向 Firebase Analytics 发送下载事件
+        if (analytics) {
+          logEvent(analytics, 'download', {
+            item_name: linkId, // 使用文件ID作为事件标识
+            item_category: 'file_downloads', // 文件下载类别
+          });
+        }
+        else {
+          console.error("Firebase Analytics is not initialized correctly");
+        }
+        // 更新下载次数到 Firebase
+        const downloadRef = ref(database, 'downloads/' + linkId);
+        runTransaction(downloadRef, currentCount => {
+          return (currentCount) + 1; // 增加下载次数
+        });
+        // console.log("downloadRef after click:", downloadRef);  // 输出下载次数
+        // 更新页面上的下载次数（本地显示）
+        onValue(downloadRef, snapshot => {
+          const downloadCount = snapshot.val() || 0;
+          console.log("Current Download Count:", downloadCount);  // 输出下载次数
+          countDisplay.textContent = `Download Count: ${downloadCount}`;
+        });
+        // get(downloadRef).then(snapshot => {
+        //   const downloadCount = snapshot.val() || 0;
+        //   console.log("Download Count after click:", downloadCount);  // 输出下载次数
+        //   countDisplay.textContent = `Download Count: ${downloadCount}`;
+        // });
+      });
+    });
+  });
+</script>
+
+<!-- <script src="assets/js/firebase.js"></script> -->
