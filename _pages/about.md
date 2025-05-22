@@ -582,7 +582,21 @@ Z. Bao, **M. Lu**, F. Deng
 <h1> <i class="fa fa-gears" aria-hidden="true"></i> Projects </h1>
 
 <section id='-demos-codes' data-level="2">
-<h2>Demos & Codes</h2>
+<h2>Demos & Codes & Model/Algorithm library</h2>
+
+<h4>IROS 2024 Cooperative Aerial Robots Inspection Challenge Competition</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/8-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+IROS 2024 Cooperative Aerial Robots Inspection Challenge Competition
+
+Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
+
+**Videos**: <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link8">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+<span id="count-link8"><b>Download Count: </b></span>
+
+</div>
+</div>
 
 <h4>Robust distributed nash equilibrium seeking subject to communication constraints</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/1-450_300.gif' alt="sym" width="100%"></div></div>
