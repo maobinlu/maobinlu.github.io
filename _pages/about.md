@@ -580,9 +580,9 @@ Z. Bao, **M. Lu**, F. Deng
 
 <section id='-projects' data-level="1">
 <h1><i class="fa fa-gears" aria-hidden="true"></i> Projects<h2><span style="color: #66b3ff;">（Funded by the National Science and Technology Major Project under Grant 2021ZD0112600）</span></h2></h1>
-<div style="font-size: 32px; font-weight: bold;">
+<div style="margin-top: 1em; font-size: $type-size-3; font-weight: bold;">
   <span><i class="fa fa-gears" aria-hidden="true"></i> Projects</span>
-  <span style="color: #66b3ff; font-size: 24px; margin-left: 10px;">
+  <span style="color: #66b3ff; font-size: $type-size-4; margin-left: 10px;">
     （Funded by the National Science and Technology Major Project under Grant 2021ZD0112600）
   </span>
 </div>
