@@ -579,7 +579,7 @@ Z. Bao, **M. Lu**, F. Deng
 
 
 <section id='-projects' data-level="1">
-<h1> <i class="fa fa-gears" aria-hidden="true"></i> Projects </h1><h1><span style="color: blue;">（Funded by the National Science and Technology Major Project under Grant 2021ZD0112600）</span></h1>
+<h1> <i class="fa fa-gears" aria-hidden="true"></i> Projects </h1><h2><span style="color: #66b3ff;">（Funded by the National Science and Technology Major Project under Grant 2021ZD0112600）</span></h2>
 
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes & Model/Algorithm library</h2>
