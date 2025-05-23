@@ -713,8 +713,8 @@ Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 </div>
 </div>
 
-<h4>IROS 2024 Cooperative Aerial Robots Inspection Challenge Competition</h4>
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/9-450_300.png' alt="sym" width="100%"></div></div>
+<h4>Research Challenge on Swarm-Based Micro UAV Search in Denied Environments</h4>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/9-450_300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Project Competition—“Swarm Search of Micro UAVs in Denied Environments,” organized by the Communist Youth League of China. It focuses on the challenges of autonomous navigation and cooperative search of micro UAV swarms in complex and dynamic environments. The project builds a system framework tailored to the characteristics of denied environments, based on complex dynamic system modeling methods, integrated with decision theory and algorithm design, to enable efficient cooperation and intelligent decision-making under incomplete information.
