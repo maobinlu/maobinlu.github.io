@@ -703,12 +703,24 @@ Advisor: **M. Lu**
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/8-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-IROS 2024 Cooperative Aerial Robots Inspection Challenge Competition
+Propose a systematic approach based on functional division and online cooperative decision-making. First, the UAV swarm is categorized into two functional units—“Explorers” and “Detectors”—based on the dynamics and sensor configurations of each platform. Explorers perform incremental mapping through local perception in unknown environments, gradually reconstructing the structural information of the task space. Detectors, on the other hand, leverage the current mapping results and environmental features to perform high-quality image acquisition of designated targets.
 
 Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 
-**Videos**: <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link8">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+**Videos**: <a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/test/IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link8">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
 <span id="count-link8"><b>Download Count: </b></span>
+
+</div>
+</div>
+
+<h4>IROS 2024 Cooperative Aerial Robots Inspection Challenge Competition</h4>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/9-450_300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Project Competition—“Swarm Search of Micro UAVs in Denied Environments,” organized by the Communist Youth League of China. It focuses on the challenges of autonomous navigation and cooperative search of micro UAV swarms in complex and dynamic environments. The project builds a system framework tailored to the characteristics of denied environments, based on complex dynamic system modeling methods, integrated with decision theory and algorithm design, to enable efficient cooperation and intelligent decision-making under incomplete information.
+
+**Code**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Prototype design drawings**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>
+<span id="count-link9"><b>Click Count: </b></span>
 
 </div>
 </div>
