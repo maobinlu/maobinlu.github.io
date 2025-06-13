@@ -55,7 +55,11 @@ redirect_from:
 
 <ol>
 
-<li><p>Zhang L, Guay M, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
+<li><p>L. Zhang, M. Guay, <b>M. Lu</b>* and S. Wang, &ldquo;Completely Distributed State Estimation for Jointly Observable Uncertain Linear Systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>,  May. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3572956&btnG=">DOI: 10.1109/TAC.2025.3572956</a>.</p>
+</li>
+<li><p>B. Xie; G. Liu; F. Deng and <b>M. Lu</b>*, &ldquo;AITEPose: Learning an End-to-End Monocular 3D Human Pose Estimator via Auxiliary-Information-Driven Training Enhancement,&rdquo; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,  May. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCSVT.2025.3570967&btnG=">DOI: 10.1109/TCSVT.2025.3570967</a>.</p>
+</li>
+<li><p>L. Zhang, M. Guay, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>Acta Automatica Sinica</i>, 2024, DOI: 10.1109/JAS.2024.125085.</p>
 </li>
