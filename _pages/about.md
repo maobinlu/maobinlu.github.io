@@ -55,7 +55,7 @@ redirect_from:
 
 <ol>
 
-<li><p>L. Zhang, M. Guay, <b>M. Lu</b>* and S. Wang, &ldquo;Completely Distributed state estimation for jointly observable uncertain linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>,  May. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3572956&btnG=">DOI: 10.1109/TAC.2025.3572956</a>.</p>
+<li><p>L. Zhang, M. Guay, <b>M. Lu</b>* and S. Wang, &ldquo;Completely distributed state estimation for jointly observable uncertain linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>,  May. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3572956&btnG=">DOI: 10.1109/TAC.2025.3572956</a>.</p>
 </li>
 <li><p>B. Xie, G. Liu, F. Deng and <b>M. Lu</b>*, &ldquo;AITEPose: learning an end-to-end monocular 3D human pose estimator via auxiliary-information-driven training enhancement,&rdquo; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,  May. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCSVT.2025.3570967&btnG=">DOI: 10.1109/TCSVT.2025.3570967</a>.</p>
 </li>
