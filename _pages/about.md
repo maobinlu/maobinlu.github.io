@@ -594,6 +594,18 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes & Model/Algorithm library</h2>
 
+<h4>Precise Robot Dual-Arm Manipulation: A Monocular RGB- Camera-Based Teleoperation System</h4>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/10-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+We develop a novel teleoperation system that requires only a single monocular RGB camera, significantly reducing cost and deployment complexity. Specifically, we propose a monocular 3D human pose estimation (3DHPE) algorithm to estimate the operator's poses and control the robot arm to follow the wrist trajectory estimation. Experimental results demonstrate that using only a single RGB camera, the teleoperation system achieves precise and flexible dual-arm collaborative manipulation, enabling complex cooperative tasks.
+
+**Video**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link10">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link10"><b>Download Count: </b></span>
+
+</div>
+</div>
+
+
 <h4>Experiment for mobile robot connectivity control game</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/1-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -726,7 +738,7 @@ Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Project Competition—“Swarm Search of Micro UAVs in Denied Environments,” organized by the Communist Youth League of China. It focuses on the challenges of autonomous navigation and cooperative search of micro UAV swarms in complex and dynamic environments. The project builds a system framework tailored to the characteristics of denied environments, based on complex dynamic system modeling methods, integrated with decision theory and algorithm design, to enable efficient cooperation and intelligent decision-making under incomplete information.
 
 **Code**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Design**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link9"><b>Click Count: </b></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link9"><b>Click Count: </b></span>
 
 </div>
 </div>
