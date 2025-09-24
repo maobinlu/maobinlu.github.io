@@ -53,6 +53,8 @@ redirect_from:
 
 <ol>
 
+<li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 12, no. 3, pp. 1830-1842, Sep. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
+</li>
 <li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed Nash Equilibrium Seeking for Aggregative Games of Linear Systems Subject to Unknown Disturbances,&rdquo; <i>Automatica</i>, Accepted.</p>
 </li>
 <li><p>K. Xie, <b>M. Lu</b>*, F. Deng, J. Sun and J. Chen, &ldquo;Data-driven dynamic output feedback nash strategy for multi-player non-zero-sum games,&rdquo; <i>Journal of Systems Science and Complexity</i>, vol. 38, pp. 597-612, May. 2025, <a href="https://doi.org/10.1007/s11424-025-4535-3">DOI: 10.1007/s11424-025-4535-3</a>.</p>
@@ -62,8 +64,6 @@ redirect_from:
 <li><p>B. Xie, G. Liu, F. Deng and <b>M. Lu</b>*, &ldquo;AITEPose: learning an end-to-end monocular 3D human pose estimator via auxiliary-information-driven training enhancement,&rdquo; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,  May. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCSVT.2025.3570967&btnG=">DOI: 10.1109/TCSVT.2025.3570967</a>.</p>
 </li>
 <li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 70, no. 3, pp. 1941-1948, Mar. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&btnG=">DOI: 10.1109/TAC.2024.3476195</a>.</p>
-</li>
-<li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, Feb. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
 </li>
 <li><p>K. Xie, M. Guay, <b>M. Lu</b>*, S. Wang and F. Deng, &ldquo;Optimal output feedback learning control for continuous-time linear quadratic regulation,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Jan. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TAC.2025.3532182</a>.</p>
 </li>
@@ -338,7 +338,6 @@ redirect_from:
     <ul>
       <li>Haizhou Yang (2020-2026)</li>
       <li>Lupeng Liu (2021-2025)</li>
-      <li>Lan Zhang (2021-2025)</li>
       <li>Faqi Wang (2022-2026)</li>
       <li>Geyuan Liu (2022-2028)</li>
       <li>Qiang Wang (2023-2027)</li>
@@ -395,6 +394,7 @@ redirect_from:
   <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Jieshuai Wu (2024)</li>
+      <li>Lan Zhang (2025)</li>
     </ul>
   </div>
 </div>
