@@ -63,8 +63,6 @@ redirect_from:
 </li>
 <li><p>K. Xie, <b>M. Lu</b>*, F. Deng, J. Sun and J. Chen, &ldquo;Data-driven dynamic output feedback nash strategy for multi-player non-zero-sum games,&rdquo; <i>Journal of Systems Science and Complexity</i>, vol. 38, pp. 597-612, May. 2025, <a href="https://doi.org/10.1007/s11424-025-4535-3">DOI: 10.1007/s11424-025-4535-3</a>.</p>
 </li>
-<li><p>B. Xie, G. Liu, F. Deng and <b>M. Lu</b>*, &ldquo;AITEPose: learning an end-to-end monocular 3D human pose estimator via auxiliary-information-driven training enhancement,&rdquo; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,  May. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCSVT.2025.3570967&btnG=">DOI: 10.1109/TCSVT.2025.3570967</a>.</p>
-</li>
 <li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 70, no. 3, pp. 1941-1948, Mar. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&btnG=">DOI: 10.1109/TAC.2024.3476195</a>.</p>
 </li>
 <li><p>K. Xie, M. Guay, <b>M. Lu</b>*, S. Wang and F. Deng, &ldquo;Optimal output feedback learning control for continuous-time linear quadratic regulation,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Jan. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TAC.2025.3532182</a>.</p>
