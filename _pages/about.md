@@ -59,7 +59,7 @@ redirect_from:
 </li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 12, no. 3, pp. 1830-1842, Sep. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
 </li>
-<li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed Nash Equilibrium Seeking for Aggregative Games of Linear Systems Subject to Unknown Disturbances,&rdquo; <i>Automatica</i>, Accepted.</p>
+<li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed nash equilibrium seeking for aggregative games of linear systems subject to unknown disturbances,&rdquo; <i>Automatica</i>, Accepted.</p>
 </li>
 <li><p>K. Xie, <b>M. Lu</b>*, F. Deng, J. Sun and J. Chen, &ldquo;Data-driven dynamic output feedback nash strategy for multi-player non-zero-sum games,&rdquo; <i>Journal of Systems Science and Complexity</i>, vol. 38, pp. 597-612, May. 2025, <a href="https://doi.org/10.1007/s11424-025-4535-3">DOI: 10.1007/s11424-025-4535-3</a>.</p>
 </li>
