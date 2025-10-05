@@ -52,7 +52,9 @@ redirect_from:
 <h2>Journal Papers</h2>
 
 <ol>
-
+  
+<li><p>B. Xie, G. Liu, F. Deng and <b>M. Lu</b>*, &ldquo;AITEPose: learning an end-to-end monocular 3D human pose estimator via auxiliary-information-driven training enhancement,&rdquo; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, vol. 35, no. 10, pp. 9775-9788, Oct. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3572956&btnG=">DOI: 10.1109/TCSVT.2025.3570967</a>.</p>
+</li>
 <li><p>L. Zhang, M. Guay, S. Wang and <b>M. Lu</b>*, &ldquo;Completely distributed state estimation for jointly observable uncertain linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>,  vol. 70, no. 10, pp. 7063-7070, Oct. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3572956&btnG=">DOI: 10.1109/TAC.2025.3572956</a>.</p>
 </li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 12, no. 3, pp. 1830-1842, Sep. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
