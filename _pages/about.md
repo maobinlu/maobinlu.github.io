@@ -53,6 +53,8 @@ redirect_from:
 
 <ol>
 
+<li><p>MYIS-SLAM: a manhattan world-based RGB-D SLAM with plane-based incremental segmentation,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, Early Access, DOI: 10.1109/TMECH.2025.3621130.</p>
+</li>
 <li><p>H. Yang, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Cooperative robust parallel operation of multiple actuators,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, <a href="https://ieeexplore.ieee.org/document/11194757">DOI: 10.1109/TAC.2025.3618722</a>.</p>
 </li>
 <li><p>B. Xie, G. Liu, F. Deng and <b>M. Lu</b>*, &ldquo;AITEPose: learning an end-to-end monocular 3D human pose estimator via auxiliary-information-driven training enhancement,&rdquo; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, vol. 35, no. 10, pp. 9775-9788, Oct. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3572956&btnG=">DOI: 10.1109/TCSVT.2025.3570967</a>.</p>
