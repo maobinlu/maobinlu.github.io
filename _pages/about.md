@@ -53,7 +53,7 @@ redirect_from:
 
 <ol>
 
-<li><p>MYIS-SLAM: a manhattan world-based RGB-D SLAM with plane-based incremental segmentation,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, Early Access, DOI: 10.1109/TMECH.2025.3621130.</p>
+<li><p>J.Dong, C. Chen*, F. Deng and <b>M. Lu</b>* MYIS-SLAM: a manhattan world-based RGB-D SLAM with plane-based incremental segmentation,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, Early Access, DOI: 10.1109/TMECH.2025.3621130.</p>
 </li>
 <li><p>H. Yang, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Cooperative robust parallel operation of multiple actuators,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, <a href="https://ieeexplore.ieee.org/document/11194757">DOI: 10.1109/TAC.2025.3618722</a>.</p>
 </li>
