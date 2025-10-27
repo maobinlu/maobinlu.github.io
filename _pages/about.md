@@ -53,6 +53,8 @@ redirect_from:
 
 <ol>
 
+<li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed nash equilibrium seeking for aggregative games of linear systems subject to unknown disturbances,&rdquo; <i>Automatica</i>, vol. 183, 2026, <a href="https://doi.org/10.1016/j.automatica.2025.112603">DOI: 10.1016/j.automatica.2025.112603</a>.</p>
+</li>
 <li><p>J.Dong, C. Chen*, F. Deng and <b>M. Lu</b>*, &ldquo;MYIS-SLAM: a manhattan world-based RGB-D SLAM with plane-based incremental segmentation,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, Early Access, DOI: 10.1109/TMECH.2025.3621130.</p>
 </li>
 <li><p>H. Yang, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Cooperative robust parallel operation of multiple actuators,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, <a href="https://ieeexplore.ieee.org/document/11194757">DOI: 10.1109/TAC.2025.3618722</a>.</p>
@@ -63,8 +65,6 @@ redirect_from:
 </li>
 <li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative output regulation subject to uncertain exosystems and its application: a fully distributed adaptive observer approach,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 12, no. 3, pp. 1830-1842, Sep. 2025, <a href="https://scholar.google.hk/scholar?hl=zh-TW&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2025.3532182&btnG=">DOI: 10.1109/TCNS.2025.3543667</a>.</p>
 </li>
-<li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed nash equilibrium seeking for aggregative games of linear systems subject to unknown disturbances,&rdquo; <i>Automatica</i>, Accepted.</p>
-</li>
 <li><p>K. Xie, <b>M. Lu</b>*, F. Deng, J. Sun and J. Chen, &ldquo;Data-driven dynamic output feedback nash strategy for multi-player non-zero-sum games,&rdquo; <i>Journal of Systems Science and Complexity</i>, vol. 38, pp. 597-612, May. 2025, <a href="https://doi.org/10.1007/s11424-025-4535-3">DOI: 10.1007/s11424-025-4535-3</a>.</p>
 </li>
 <li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 70, no. 3, pp. 1941-1948, Mar. 2025, <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&btnG=">DOI: 10.1109/TAC.2024.3476195</a>.</p>
@@ -73,7 +73,7 @@ redirect_from:
 </li>
 <li><p>L. Zhang, M. Guay, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
 </li>
-<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>Acta Automatica Sinica</i>, 2024, DOI: 10.1109/JAS.2024.125085.</p>
+<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>IEEE/CAA Journal of Automatica Sinica</i>, vol. 12, no. 8, pp. 1713-1723, Aug. 2025, <a href="https://doi.org/10.1109/JAS.2024.125085">DOI: 10.1109/JAS.2024.125085</a>.</p>
 </li>
 <li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.<b>(Best Theoretical Paper Award)</b></p>
 </li>
