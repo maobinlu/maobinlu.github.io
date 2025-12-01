@@ -68,6 +68,24 @@
         max-width: 100%;
         order: 1;
     }
+
+    .paper-box-image2{
+        justify-content: center;
+        display: flex;
+        width: 35%;
+        order: 1;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+
+    .paper-box-text2 {
+        max-width: 40%; /* 限制文字最大宽度 */
+        margin-left: 0em; /* 为文字和图片增加间距 */
+        order: 2; /* 保持文字在后 */
+    }
     
     .full-width-box  {
         width: 100%; /* 确保容器宽度占满 */
