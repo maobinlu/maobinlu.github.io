@@ -144,8 +144,11 @@ redirect_from:
 <h2>Conference Papers</h2>
 
 <ol>
-
-<li><p>L. Liu, <b>M. Lu</b>, S. Wang, F. Deng, L. Dou and J. Chen, &ldquo;Distributed nash equilibrium seeking with communication delays,&rdquo; in <i>Proceedings of the 2024 IEEE 18th International Conference on Control & Automation</i>, Reykjavík, Iceland, pp. 6-11, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=">DOI:10.1109/ICCA62789.2024.10591839</a>.</p>
+<li><p>B. Xie, G. Liu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;End-to-end learning for monocular 3D human pose estimation,&rdquo; in <i>2025 IEEE 19th International Conference on Control & Automation (ICCA)</i>, Tallinn, Estonia, pp. 366-371, <a href="https://doi.org/10.1109/ICCA65672.2025.11129715">DOI: 10.1109/ICCA65672.2025.11129715</a>.</p>
+</li>
+<li><p>J. Cai, Q. Wang, <b>M. Lu</b> and F. Deng, &ldquo;Discrete-time high-order control barrier function approach for quadrotors obstacle avoidance,&rdquo; in <i>2025 37th Chinese Control and Decision Conference (CCDC)</i>, Xiamen, China, pp. 5318-5323, <a href="https://doi.org/10.1109/CCDC65474.2025.11090253">DOI: 10.1109/CCDC65474.2025.11090253</a>.</p>
+</li>
+<li><p>L. Liu, <b>M. Lu</b>, S. Wang, F. Deng, L. Dou and J. Chen, &ldquo;Distributed nash equilibrium seeking with communication delays,&rdquo; in <i>Proceedings of the 2024 IEEE 18th International Conference on Control & Automation</i>, Reykjavík, Iceland, pp. 6-11, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=">DOI:10.1109/ICCA62789.2024.10591839</a>.<b>Best Paper Award</b></p>
 </li>
 <li><p>Z. Bao, <b>M. Lu</b>* and F. Deng, &ldquo;Leader-following attitude synchronization of multiple flexible spacecraft systems subject to external disturbance,&rdquo; in <i>Proceedings of the 2023 Youth Academic Annual Conference of Chinese Association of Automation</i>, Hefei, China, pp. 1175-1180, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=">DOI:10.1109/YAC59482.2023.10401360</a>.</p>
 </li>
