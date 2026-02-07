@@ -619,7 +619,7 @@ We develop a novel teleoperation system that requires only a single monocular RG
 </div>
 
 
-<h4>Experiment for mobile robot connectivity control game</h4>
+<h4>Experiment for Mobile Robot Connectivity Control Game</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/1-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -634,7 +634,7 @@ Authors： L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen
 </div>
 </div>
 
-<h4>Output feedback control of uncertain Euler–Lagrange systems by internal model</h4>
+<h4>Output Feedback Control of Uncertain Euler–Lagrange Systems by Internal Model</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/gif/2-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -750,7 +750,7 @@ Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 
 This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Project Competition—“Swarm Search of Micro UAVs in Denied Environments,” organized by the Communist Youth League of China. It focuses on the challenges of autonomous navigation and cooperative search of micro UAV swarms in complex and dynamic environments. The project builds a system framework tailored to the characteristics of denied environments, based on complex dynamic system modeling methods, integrated with decision theory and algorithm design, to enable efficient cooperation and intelligent decision-making under incomplete information.
 
-**Code**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Design**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>
+**Code**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>&nbsp;&nbsp;<!-- **Design**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link9"><b>Click Count: </b></span>
 
 </div>
