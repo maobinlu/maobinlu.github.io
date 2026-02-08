@@ -629,7 +629,7 @@ This experiment illustrates a connectivity control game, which involves motion c
 
 Authors： L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen
 
-**Videos**: <a href="https://www.bilibili.com/video/BV1wVF4zbEhS/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/2.Experiment%20for%20mobile%20robot%20connectivity%20control%20game" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/demo-movies/2.Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="gold-link-track" data-link-id="link1">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+**Videos**: <a href="https://www.bilibili.com/video/BV1wVF4zbEhS/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/2.Experiment%20for%20mobile%20robot%20connectivity%20control%20game" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=d2e035f7%2D54d8%2D4a0c%2D9e44%2D5d2f369cab9b" class="gold-link-track" data-link-id="link1">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
 <span id="count-link1"><b>Download Count: </b></span>
 
 </div>
@@ -645,7 +645,7 @@ In this paper, we investigate the trajectory tracking control problem of a class
 
 Authors： X. He, **M. Lu**
 
-**Videos**: <a href="https://www.bilibili.com/video/BV1AGF4zFEgt/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/3.Output%20Feedback%20Control%20of%20Uncertain%20Euler%E2%80%93Lagrange%20Systems%20by%20Internal%20Model" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/demo-movies/3.Output%20Feedback%20Control%20of%20Uncertain%20Euler%E2%80%93Lagrange%20Systems%20by%20Internal%20Model.mp4" class="gold-link-track" data-link-id="link2">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+**Videos**: <a href="https://www.bilibili.com/video/BV1AGF4zFEgt/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/3.Output%20Feedback%20Control%20of%20Uncertain%20Euler%E2%80%93Lagrange%20Systems%20by%20Internal%20Model" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=86554aec%2D2a36%2D4416%2Db815%2D951cf08d89a4" class="gold-link-track" data-link-id="link2">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
 <span id="count-link2"><b>Download Count: </b></span>
  
 
@@ -692,7 +692,7 @@ Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
 
 Advisor: **M. Lu**, C. Wang and F. Deng
 
-**Videos**: <a href="https://www.bilibili.com/video/BV1pGF4zFE2F/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/4.ius_uav-master" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/demo-movies/4.%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link3">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+**Videos**: <a href="https://www.bilibili.com/video/BV1pGF4zFE2F/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/4.ius_uav-master" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=995f4a8e%2D7f54%2D47c6%2D9638%2D5fb544ae87be" class="gold-link-track" data-link-id="link3">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
 <span id="count-link3"><b>Download Count: </b></span>
 
 </div>
@@ -708,7 +708,7 @@ Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
 
 Advisor: **M. Lu**, C. Chen and F. Deng
 
-**Videos**: <a href="https://www.bilibili.com/video/BV1TPF4zvEPh/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/5.nmpc_traj-master" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/demo-movies/5.%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link4">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+**Videos**: <a href="https://www.bilibili.com/video/BV1TPF4zvEPh/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/5.nmpc_traj-master" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=e5e78eca%2Dd651%2D4d40%2D9edb%2Da331e8972c29" class="gold-link-track" data-link-id="link4">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
 <span id="count-link4"><b>Download Count: </b></span>
 
 </div>
@@ -724,7 +724,7 @@ Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
 
 Advisor: **M. Lu**
 
-**Videos**: <a href="https://www.bilibili.com/video/BV1KPF4zvEjV/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/6.robot_arm_gripper-master" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/demo-movies/6.2023%20Challenge%20Cup%20Capital%20University%20Students'%20Extracurricular%20Academic%20and%20Scientific%20Works%20Provincial%20Competition%20Champion.mp4" class="gold-link-track" data-link-id="link5">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+**Videos**: <a href="https://www.bilibili.com/video/BV1KPF4zvEjV/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/maobinlu/demos-codes/tree/main/codes/6.robot_arm_gripper-master" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=cb851f2a%2De258%2D4ae7%2Daaf7%2D9590ed42f67f" class="gold-link-track" data-link-id="link5">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
 <span id="count-link5"><b>Download Count: </b></span> 
 <!-- <img src="https://img.shields.io/github/stars/maobinlu/demos-codes?style=social" alt="Github Stars"> </a> -->
 
@@ -739,7 +739,7 @@ Propose a systematic approach based on functional division and online cooperativ
 
 Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 
-**Videos**: <a href="https://www.bilibili.com/video/BV14PF4zvEnD/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/raw/refs/heads/main/demo-movies/7.IROS%202024%20Cooperative%20Aerial%20Robots%20Inspection%20Challenge%20%E5%86%A0%E5%86%9B.mp4" class="gold-link-track" data-link-id="link8">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+**Videos**: <a href="https://www.bilibili.com/video/BV14PF4zvEnD/?spm_id_from=333.1387.homepage.video_card.click" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;**Code**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=c318bc27%2Df15c%2D4083%2D8820%2D71ed311bbf42" class="gold-link-track" data-link-id="link8">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
 <span id="count-link8"><b>Download Count: </b></span>
 
 </div>
@@ -751,8 +751,8 @@ Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 
 This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Project Competition—“Swarm Search of Micro UAVs in Denied Environments,” organized by the Communist Youth League of China. It focuses on the challenges of autonomous navigation and cooperative search of micro UAV swarms in complex and dynamic environments. The project builds a system framework tailored to the characteristics of denied environments, based on complex dynamic system modeling methods, integrated with decision theory and algorithm design, to enable efficient cooperation and intelligent decision-making under incomplete information.
 
-**Code**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>&nbsp;&nbsp;<!-- **Design**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link9"><b>Click Count: </b></span>
+**Code**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=46786cab%2Df965%2D4bd9%2D940f%2D420b98db3790" class="gold-link-track" data-link-id="link9">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;<!-- **Design**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link9"><b>Click Count: </b></span>
 
 </div>
 </div>
