@@ -752,7 +752,7 @@ Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Project Competition—“Swarm Search of Micro UAVs in Denied Environments,” organized by the Communist Youth League of China. It focuses on the challenges of autonomous navigation and cooperative search of micro UAV swarms in complex and dynamic environments. The project builds a system framework tailored to the characteristics of denied environments, based on complex dynamic system modeling methods, integrated with decision theory and algorithm design, to enable efficient cooperation and intelligent decision-making under incomplete information.
 
 **Code**: <a href="https://github.com/DareScanMyCode/ws_comp29" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>/<a href="https://onedrive.live.com/personal/9607f96db31cc9d4/_layouts/15/download.aspx?UniqueId=46786cab%2Df965%2D4bd9%2D940f%2D420b98db3790" class="gold-link-track" data-link-id="link9">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;<!-- **Design**: <a href="https://github.com/DareScanMyCode/CDC_Competition" class="gold-link-track" data-link-id="link9">Github<img src="images/github-mark.png" alt="icon" class="icon"></a>-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link9"><b>Click Count: </b></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="count-link9"><b>Click Count: </b></span>
 
 </div>
 </div>
