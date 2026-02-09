@@ -759,13 +759,13 @@ This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Pr
 </div>
 </div>
 
-<h4>Professor Guan's part</h4>
+<h4>Construction of complex system models for gene regulatory networks integrating data and knowledge</h4>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/12-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-To address the challenges of inaccurate gene expression and complex coupling relationships in gene regulatory networks, a modeling approach for complex coupled systems was proposed. A complex dynamic network system model integrating both data and knowledge was established, improving the accuracy and robustness of dynamic system models for gene regulatory networks.
+To address the challenges of modeling complex dynamic systems such as the absence and inaccuracy of gene expression information and complex coupling relationships in the construction of gene regulatory networks, modeling methods for complex coupled and associated systems were proposed and complex dynamic network system models integrating data and knowledge were established, which enhanced the accuracy and robustness of the dynamic system model of gene regulatory networks.
 
-Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
+Authors: J. Guan, Y. Wang, Y. Wang, F. Zhou, C. Wang, Y. Lin, Y. Kang, H. Zhang, W. Li, X. Chen; Y. Jiang Y. Zhuang, S. Li, G. Ji
 
 **Codes**: <a href="https://github.com/JGuan-lab/SRGS" class="gold-link-track" data-link-id="link11">SRGS</a>/<a href="https://github.com/JGuan-lab/SFINN" class="gold-link-track" data-link-id="link11">SFINN</a>/<a href="https://github.com/JGuan-lab/DSSC" class="gold-link-track" data-link-id="link11">DSSC</a>/<a href="https://github.com/JGuan-lab/scINRB" class="gold-link-track" data-link-id="link11">scINRB</a>/<a href="https://github.com/JGuan-lab/scTsI" class="gold-link-track" data-link-id="link11">scTsI</a>/<a href="https://github.com/JGuan-lab/MISF" class="gold-link-track" data-link-id="link11">MISF</a><!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 <span id="count-link11"><b>Download Count: </b></span>
