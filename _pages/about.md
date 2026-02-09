@@ -760,7 +760,7 @@ This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Pr
 </div>
 
 <h4>Construction of complex system models for gene regulatory networks integrating data and knowledge</h4>
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/12-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/12-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 To address the challenges of modeling complex dynamic systems such as the absence and inaccuracy of gene expression information and complex coupling relationships in the construction of gene regulatory networks, modeling methods for complex coupled and associated systems were proposed and complex dynamic network system models integrating data and knowledge were established, which enhanced the accuracy and robustness of the dynamic system model of gene regulatory networks.
