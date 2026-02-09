@@ -760,7 +760,7 @@ This codebase is dedicated to addressing the 2024 “Challenge Cup” Special Pr
 </div>
 
 <h4>Professor Guan's part</h4>
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/8-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/12-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 To address the challenges of inaccurate gene expression and complex coupling relationships in gene regulatory networks, a modeling approach for complex coupled systems was proposed. A complex dynamic network system model integrating both data and knowledge was established, improving the accuracy and robustness of dynamic system models for gene regulatory networks.
@@ -774,12 +774,12 @@ Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 </div>
 
 <h4>Real-time Opacity Algorithms and Experimental Software for Discrete Dynamical Systems</h4>
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/8-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/11-450_300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-To address the challenges of difficult logical representation and high opacity requirements in dynamic systems under complex tasks, an automaton modeling method based on temporal logic language and weighted full-coverage controllers was proposed, achieving an automaton model for complex dynamic systems driven by hybrid mechanisms.
+Control and decision-making methods under opacity constraints were studied to address the coexistence of task execution and information security in complex systems. Supervisory control and strategy synthesis approaches for deterministic and stochastic systems were developed, achieving optimal performance while preventing external observers from uniquely inferring system behaviors. The methods improved system security and controllability in partially observable environments and were applied to an indoor multi-UAV cooperative control platform for efficient collaboration in complex scenarios.
 
-Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
+Authors: Y. Zheng, X. Yu, A. Lai, W. Lan and Y. Wang
 
 **Codes**: <a href="https://github.com/trigger1996/MDPPlanner" class="gold-link-track" data-link-id="link12">MDP</a>/<a href="https://github.com/trigger1996/DroneIndoorROS2" class="gold-link-track" data-link-id="link12">DroneIndoor</a>/<a href="https://github.com/trigger1996/Enforcement_IWA" class="gold-link-track" data-link-id="link12">EnforcementIWA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span id="count-link12"><b>Download Count: </b></span>
