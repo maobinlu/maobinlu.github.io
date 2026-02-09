@@ -773,7 +773,7 @@ Authors： B. Zhao, J. Guo, X. Chen, Y. Wang,C. Tang, L. Cao, R. Ji and X. Yu
 </div>
 </div>
 
-<h4>Zheng Yiwei's part</h4>
+<h4>Real-time Opacity Algorithms and Experimental Software for Discrete Dynamical Systems</h4>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/8-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
