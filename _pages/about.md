@@ -85,7 +85,7 @@ redirect_from:
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Robust output regulation of a class of minimum-phase linear uncertain systems by event-triggered control,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 11, no. 2, pp. 989-998, Jun. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCNS.2023.3330446&btnG=">DOI:10.1109/TCNS.2023.3330446</a>.</p>
 </li>
-<li><p>X. He, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Output feedback control of uncertain Euler–Lagrange systems by internal model,&rdquo; <i>Automatica</i>, vol. 156, Oct. 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=">DOI: 10.1016/j.automatica.2023.111189</a>.</p>
+<li><p>X. He and <b>M. Lu</b>*, &ldquo;Output feedback control of uncertain Euler–Lagrange systems by internal model,&rdquo; <i>Automatica</i>, vol. 156, Oct. 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=">DOI: 10.1016/j.automatica.2023.111189</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative robust output regulation of linear uncertain multi-agent systems: A dynamic event-triggered approach,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 33, no. 18, pp. 11538-11552, 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1002%2Frnc.6957&btnG=">DOI:10.1002/rnc.6957</a>. </p>
 </li>
