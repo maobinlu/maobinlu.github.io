@@ -53,7 +53,9 @@ redirect_from:
 
 <ol>
 
-<li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed nash equilibrium seeking for aggregative games of linear systems subject to unknown disturbances,&rdquo; <i>Automatica</i>, vol. 183, 2026, <a href="https://doi.org/10.1016/j.automatica.2025.112603">DOI: 10.1016/j.automatica.2025.112603</a>.</p>
+<li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed nash equilibrium seeking for aggregative games of linear systems subject to unknown disturbances,&rdquo;<i>Automatica</i>, vol. 183, 2026, <a href="https://doi.org/10.1016/j.automatica.2025.112603">DOI: 10.1016/j.automatica.2025.112603</a>.</p>
+</li>
+<li><p>F. Deng, Q. Wang, X. Xie, J. Chen and <b>M. Lu</b>*, &ldquo;Learning safe and decentralized flight for aerial swarms in dynamic complexenvironments,&rdquo; <i>Chinese Journal of deronautics</i>, 2026, <a href="https://doi.org/10.1016/j.cja.2026.104113">DOI: 10.1016/j.cja.2026.104113</a>.</p>
 </li>
 <li><p>J. Dong, C. Chen*, F. Deng and <b>M. Lu</b>*, &ldquo;MYIS-SLAM: a manhattan world-based RGB-D SLAM with plane-based incremental segmentation,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, Early Access, DOI: 10.1109/TMECH.2025.3621130.</p>
 </li>
