@@ -610,7 +610,7 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Demos & Codes & Model/Algorithm library 1</h2>
 
 <h4>Design, Modeling, and Control of Parallel Bipedal Wheel-Legged Robots with Autonomous Self-Recovery</h4>
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/10-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/13-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 We developed a bipedal wheel-legged robot (BWLR) equipped with 3-DoF parallel legs. Based on the Full-State Nonlinear Dynamic Model (FSNDM), we designed a constrained Nonlinear Model Predictive Controller (NMPC), and proposed an autonomous self-recovery strategy after tip-over according to the structural characteristics of the robot. This verifies the effectiveness and engineering practical value of the robot's mechanical structure design, dynamic modeling method and control framework.
