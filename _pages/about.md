@@ -609,6 +609,17 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes & Model/Algorithm library 1</h2>
 
+<h4>Design, Modeling, and Control of Parallel Bipedal Wheel-Legged Robots with Autonomous Self-Recovery</h4>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/10-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+We developed a bipedal wheel-legged robot (BWLR) equipped with 3-DoF parallel legs. Based on the Full-State Nonlinear Dynamic Model (FSNDM), we designed a constrained Nonlinear Model Predictive Controller (NMPC), and proposed an autonomous self-recovery strategy after tip-over according to the structural characteristics of the robot. This verifies the effectiveness and engineering practical value of the robot's mechanical structure design, dynamic modeling method and control framework.
+
+**Video**: <a href="https://www.bilibili.com/video/BV1xs5Z6GELU?buvid=XU8E316846D251D20E0E13877DF36354FE275&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=%2BpjNsqiMMGlTePIsW3dHPw%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b91e49b4-9bd9-4e83-905e-c0d00c032b24&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1779070556&unique_k=FeKFDQD&up_id=3546758460213593&spm_id_from=333.788.videopod.episodes" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>&nbsp;&nbsp;
+
+</div>
+</div>
+
 <h4>Precise Robot Dual-Arm Manipulation: A Monocular RGB- Camera-Based Teleoperation System</h4>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/10-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
