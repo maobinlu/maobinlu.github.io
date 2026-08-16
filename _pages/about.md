@@ -609,6 +609,20 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes & Model/Algorithm library 1</h2>
 
+<h4>KAT: A Kinematics-Aware Transformer for Spatial and Interaction Learning in Robot Manipulation</h4>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/14-450_300.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Robot imitation learning requires resolving spatial grounding between end-effectors and objects, but conventional late fusion methods lack explicit cross-modal correspondence. We propose Kinematics-Aware Transformer (KAT) policy, injecting kinematic priors via three modules: Spatial Anchoring augments visual input with kinematic cues; Position Encoding fuses geometry into features; Interaction Tokenization aggregates multi-view context around the end-effector. Experiments on Robomimic, Meta-World, and real-world tasks show KAT outperforms baselines with high data efficiency and low overhead. It won championship at 2025 Huawei RoboMind competition, demonstrating robustness and real-world efficacy. 
+
+**Video**: <a href="https://www.bilibili.com/video/BV1xs5Z6GELU?buvid=XU8E316846D251D20E0E13877DF36354FE275&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=%2BpjNsqiMMGlTePIsW3dHPw%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b91e49b4-9bd9-4e83-905e-c0d00c032b24&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1779070556&unique_k=FeKFDQD&up_id=3546758460213593&spm_id_from=333.788.videopod.episodes" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>/<a href="https://github.com/maobinlu/demos-codes/releases/download/v1.0/18.Robot_video.zip" class="gold-link-track" data-link-id="link13">Download<img src="images/download-icon.svg" alt="icon" class="icon"></a>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;<span id="count-link13"><b>Download Count: </b></span>
+
+</div>
+</div>
+
+
 <h4>Design, Modeling, and Control of Parallel Bipedal Wheel-Legged Robots with Autonomous Self-Recovery</h4>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gif/13-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
