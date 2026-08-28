@@ -57,11 +57,11 @@ redirect_from:
 </li>
 <li><p>F. Deng, Q. Wang, X. Xie, J. Chen and <b>M. Lu</b>*, &ldquo;Learning safe and decentralized flight for aerial swarms in dynamic complexenvironments,&rdquo; <i>Chinese Journal of Aeronautics</i>, 2026, <a href="https://doi.org/10.1016/j.cja.2026.104113">DOI: 10.1016/j.cja.2026.104113</a>.</p>
 </li>
-<li><p>J. Dong, C. Chen*, F. Deng and <b>M. Lu</b>*, &ldquo;MYIS-SLAM: a manhattan world-based RGB-D SLAM with plane-based incremental segmentation,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, Early Access, DOI: 10.1109/TMECH.2025.3621130.</p>
+<li><p>J. Dong, C. Chen*, F. Deng and <b>M. Lu</b>*, &ldquo;MYIS-SLAM: a manhattan world-based RGB-D SLAM with plane-based incremental segmentation,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, vol. 31, Apr. 2026,  <a href="https://doi.org/10.1109/TMECH.2025.3621130">DOI: 10.1109/TMECH.2025.3621130</a>.</p>
 </li>
-<li><p>H. Yang, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Cooperative robust parallel operation of multiple actuators,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, <a href="https://ieeexplore.ieee.org/document/11194757">DOI: 10.1109/TAC.2025.3618722</a>.</p>
+<li><p>H. Yang, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Cooperative robust parallel operation of multiple actuators,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 71, Mar. 2026, <a href="https://doi.org/10.1109/TAC.2025.3618722">DOI: 10.1109/TAC.2025.3618722</a>.</p>
 </li>
-<li><p>H. Yang, K. Xie, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Data-driven learning distributed optimization of heterogeneous linear multi-agent systems,&rdquo; <i>IEEE Transactions on Cybernetics</i>, Early Access, DOI: 10.1109/TCYB.2025.3638346.</p>
+<li><p>H. Yang, K. Xie, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Data-driven learning distributed optimization of heterogeneous linear multi-agent systems,&rdquo; <i>IEEE Transactions on Cybernetics</i>, vol. 56, Jun. 2026, <a href="https://doi.org/10.1109/TCYB.2025.3638346">DOI: 10.1109/TCYB.2025.3638346</a>.</p>
 </li>
 <li><p>B. Xie, G. Liu, F. Deng and <b>M. Lu</b>*, &ldquo;AITEPose: learning an end-to-end monocular 3D human pose estimator via auxiliary-information-driven training enhancement,&rdquo; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, vol. 35, no. 10, pp. 9775-9788, Oct. 2025, <a href="https://doi.org/10.1109/TCSVT.2025.3570967">DOI: 10.1109/TCSVT.2025.3570967</a>.</p>
 </li>
