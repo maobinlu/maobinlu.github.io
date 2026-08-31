@@ -53,6 +53,9 @@ redirect_from:
 
 <ol>
 
+<li><p>Q. Wang, M. Guay, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Robust optimal agile flight of quadrotors: an internal model-based nonlinear model predictive optimization approach,&rdquo;<i>IEEE Transactions on Robotics</i>, Early Access, <a href="https://doi.org/10.1109/TRO.2026.3721737">DOI: 10.1109/TRO.2026.3721737</a >.</p >
+</li>
+
 <li><p>L. Zhang, M. Guay, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Nonadaptive distributed state estimation for discrete-time jointly observable uncertain linear systems,&rdquo;<i>IEEE Transactions on Automatic Control</i>, Early Access, <a href="https://doi.org/10.1109/TAC.2026.3723759">DOI: 10.1109/TAC.2026.3723759</a>.</p>
 </li>
 
