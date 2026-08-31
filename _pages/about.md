@@ -53,6 +53,9 @@ redirect_from:
 
 <ol>
 
+<li><p>L. Zhang, M. Guay, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Nonadaptive distributed state estimation for discrete-time jointly observable uncertain linear systems,&rdquo;<i>IEEE Transactions on Automatic Control</i>, Early Access, <a href="https://doi.org/10.1109/TAC.2026.3723759">DOI: 10.1109/TAC.2026.3723759</a>.</p>
+</li>
+
 <li><p>L. Liu, F. Deng, J. Chen and <b>M. Lu</b>*, &ldquo;Distributed nash equilibrium seeking for aggregative games of linear systems subject to unknown disturbances,&rdquo;<i>Automatica</i>, vol. 183, 2026, <a href="https://doi.org/10.1016/j.automatica.2025.112603">DOI: 10.1016/j.automatica.2025.112603</a>.</p>
 </li>
 <li><p>F. Deng, Q. Wang, X. Xie, J. Chen and <b>M. Lu</b>*, &ldquo;Learning safe and decentralized flight for aerial swarms in dynamic complexenvironments,&rdquo; <i>Chinese Journal of Aeronautics</i>, 2026, <a href="https://doi.org/10.1016/j.cja.2026.104113">DOI: 10.1016/j.cja.2026.104113</a>.</p>
